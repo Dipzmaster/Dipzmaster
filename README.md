@@ -8,9 +8,10 @@
 [![Years Badge](https://badges.pufler.dev/years/dipzmaster)](https://badges.pufler.dev)
 
 
-- 👋 Hi, I’m @Dipzmaster
+- 👋 Call me @Dipzmaster
 - 🔭 I’m currently studying in IIM Nagpur🐱‍💻. 
--  I love solving real world problems using computer science 😋
+- 🌱  I love solving real world problems using computer science 😋
 - 🌱 I’m currently learning from various online platforms like coursera, kaggle, datacamp etc.
 - 👨🏻‍🎓 About me, I am pure hardwork ➕ a little talent ➕ a little humor ♾️ 🤓
 - � You ask what I do in free time? 🤔 well, I love sketching 🖍️ 
+- 📫 Reach me @ dipaknandeshwar94@gmail.com
