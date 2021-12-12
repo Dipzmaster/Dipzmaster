@@ -1,3 +1,13 @@
+### Hi there 👋 I'm Harshit
+<h3 align="center">A passionate Data Science, Machine Learning and SAP enthusiast</h3>
+
+<img src="https://komarev.com/ghpvc/?username=dipzmaster" alt="dipzmaster" />
+  
+[![Repos Badge](https://badges.pufler.dev/repos/dipzmaster)](https://badges.pufler.dev)
+
+[![Years Badge](https://badges.pufler.dev/years/dipzmaster)](https://badges.pufler.dev)
+
+
 - 👋 Hi, I’m @Dipzmaster
 - 🔭 I’m currently studying in IIM Nagpur🐱‍💻. 
 -  I love solving real world problems using computer science 😋
