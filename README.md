@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Harshit
+### Hi there 👋 I'm Dipak
 <h3 align="center">A passionate Data Science, Machine Learning and SAP enthusiast</h3>
 
 <img src="https://komarev.com/ghpvc/?username=dipzmaster" alt="dipzmaster" />
