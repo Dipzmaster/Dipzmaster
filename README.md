@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Dipak
-<h3 align="center">A passionate Data Science, Machine Learning and SAP enthusiast</h3>
+<h3 align="center">A passionate Product Guy, Data Science, Machine Learning and SAP enthusiast</h3>
 
 <img src="https://komarev.com/ghpvc/?username=dipzmaster" alt="dipzmaster" />
   
