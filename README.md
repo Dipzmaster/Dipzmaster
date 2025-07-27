@@ -3,10 +3,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=dipzmaster" alt="dipzmaster" />
   
-[![Repos Badge](https://badges.pufler.dev/repos/dipzmaster)](https://badges.pufler.dev)
-
-[![Years Badge](https://badges.pufler.dev/years/dipzmaster)](https://badges.pufler.dev)
-
 
 - 👋 Call me @Dipzmaster
 - 🔭 Alumini of IIM Nagpur🐱‍💻. 
